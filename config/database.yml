@@ -83,4 +83,5 @@ production:
   <<: *default
   database: bfwd_backend_production
   username: bfwd_backend
+  adapter: postgresql
   password: <%= ENV['BFWD_BACKEND_DATABASE_PASSWORD'] %>
