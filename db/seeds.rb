@@ -7,6 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Entry.destroy_all
+Entry.reset_pk_sequence
 Favorite.destroy_all
 
 entries = Entry.create([
