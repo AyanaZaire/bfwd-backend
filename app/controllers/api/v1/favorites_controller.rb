@@ -26,6 +26,7 @@ class Api::V1::FavoritesController < ApplicationController
   end
 
   def find_favorite
+    byebug
     @favorite = Favorite.find(params[:id])
   end
 

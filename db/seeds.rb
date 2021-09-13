@@ -698,7 +698,7 @@ entries = Entry.create([
     "born": 1948,
     "death": "",
     "birthplace": "Queens, New York, NY",
-    "image": "https://www.beccastone.com/wp-content/uploads/2013/11/Dr-Jessica-Harris.png",
+    "image": "https://cdn.vox-cdn.com/thumbor/_OX9Bowm3fvFLZwcWnFdzbbzCWg=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19784909/4.19_Jessica_B_Harris013_edited.jpg",
     "bio": "In her own origin story, even before her work with ESSENCE took her around the world to try global flavors, she was first introduced to new traditions and tastes at home.\n\n“I got started with my love of food at home, through my mother,” she says. “I grew up cooking and having some knowledge of food, and a mother who was tolerant and let me play with things. The first thing I ever made was something called coo-pie cake. It was a little flat pie crust thing. She had given me a piece of pie crust, and I had mashed it down in some way. I remember red food coloring was involved, as was sugar. She baked it, and when it came out we ate it, and we called it coo-pie cake. That would be because it was not a cookie, it was not pie, it was not cake. And so when my first book came out, first cookbook, I remember writing in her copy of it, and she always got the first copy of any book I wrote. I would say, ‘We’ve come a long way from coo-pie cake.'”\n\nShe certainly has. ",
     "author": "Victoria Uwumarogie",
     "source": "https://www.essence.com/lifestyle/high-on-the-hog/"
