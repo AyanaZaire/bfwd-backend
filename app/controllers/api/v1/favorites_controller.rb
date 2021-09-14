@@ -20,7 +20,7 @@ class Api::V1::FavoritesController < ApplicationController
   end
 
   def destroy_all_on_load
-    render json: Favorite.destroy_all
+    render json: "Favorites Deleted"
   end
 
   private
