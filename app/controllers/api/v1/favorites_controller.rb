@@ -19,6 +19,10 @@ class Api::V1::FavoritesController < ApplicationController
     render json: @favorite.destroy
   end
 
+  def destroy_all_on_load
+    render json: Favorite.destroy_all
+  end
+
   private
 
   def favorite_params

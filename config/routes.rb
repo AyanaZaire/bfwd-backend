@@ -5,6 +5,7 @@ Rails.application.routes.draw do
       namespace :v1 do
         resources :entries, only: [:index]
         resources :favorites, only: [:index, :create, :destroy]
+        get '/reload', to: 'favorites#destroy_all_on_load'
       end
     end
   end
