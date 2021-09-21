@@ -45,7 +45,7 @@ entries = Entry.create([
     "source": "https://www.highsnobiety.com/p/natsai-audrey-chieza-clothes-out-of-bacteria-interview/",
     "author": "Manus Browne",
     "death": "",
-    "image": "https://www.worthproject.eu/wp-content/uploads/2018/12/Natsai-resized.jpg"
+    "image": "http://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/24460/gallery/resized-2-4.jpg?itok=4Vpq4g5-"
   },
   {  "name": "Erica Joy Baker",
     "born": 1980,
